@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mealsApp/static/css/main.6e764ddf.chunk.css",
-    "main.js": "/mealsApp/static/js/main.a9cd39ed.chunk.js",
-    "main.js.map": "/mealsApp/static/js/main.a9cd39ed.chunk.js.map",
-    "runtime-main.js": "/mealsApp/static/js/runtime-main.b01719cf.js",
-    "runtime-main.js.map": "/mealsApp/static/js/runtime-main.b01719cf.js.map",
-    "static/js/2.57dd0a59.chunk.js": "/mealsApp/static/js/2.57dd0a59.chunk.js",
-    "static/js/2.57dd0a59.chunk.js.map": "/mealsApp/static/js/2.57dd0a59.chunk.js.map",
-    "index.html": "/mealsApp/index.html",
-    "static/css/main.6e764ddf.chunk.css.map": "/mealsApp/static/css/main.6e764ddf.chunk.css.map",
-    "static/js/2.57dd0a59.chunk.js.LICENSE.txt": "/mealsApp/static/js/2.57dd0a59.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/mealsApp/static/media/meals.2971f633.jpg"
+    "main.css": "/mealsApp-react/static/css/main.6e764ddf.chunk.css",
+    "main.js": "/mealsApp-react/static/js/main.a9cd39ed.chunk.js",
+    "main.js.map": "/mealsApp-react/static/js/main.a9cd39ed.chunk.js.map",
+    "runtime-main.js": "/mealsApp-react/static/js/runtime-main.df5a43f0.js",
+    "runtime-main.js.map": "/mealsApp-react/static/js/runtime-main.df5a43f0.js.map",
+    "static/js/2.57dd0a59.chunk.js": "/mealsApp-react/static/js/2.57dd0a59.chunk.js",
+    "static/js/2.57dd0a59.chunk.js.map": "/mealsApp-react/static/js/2.57dd0a59.chunk.js.map",
+    "index.html": "/mealsApp-react/index.html",
+    "static/css/main.6e764ddf.chunk.css.map": "/mealsApp-react/static/css/main.6e764ddf.chunk.css.map",
+    "static/js/2.57dd0a59.chunk.js.LICENSE.txt": "/mealsApp-react/static/js/2.57dd0a59.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/mealsApp-react/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b01719cf.js",
+    "static/js/runtime-main.df5a43f0.js",
     "static/js/2.57dd0a59.chunk.js",
     "static/css/main.6e764ddf.chunk.css",
     "static/js/main.a9cd39ed.chunk.js"

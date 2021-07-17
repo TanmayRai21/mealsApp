@@ -16,3 +16,14 @@
   font: inherit;
   padding-left: 0.5rem;
 }
+
+@media only screen and (max-width: 480px) {
+  .input label {
+    display: none;
+  }
+  .input input {
+    width: 1.6rem;
+    border-radius: 5px;
+    margin-left: 1rem;
+  }
+}

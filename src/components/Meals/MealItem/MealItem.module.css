@@ -36,3 +36,23 @@
   padding-left: 0.8em;
   font-size: x-small;
 }
+
+@media only screen and (max-width: 480px) {
+  .meal {
+    margin: 0.25rem;
+  }
+
+  .meal h3 {
+    margin: 0 0 0.25rem 0;
+    font-size: medium;
+  }
+
+  .description {
+    font-size: small;
+    max-width: 90%;
+  }
+
+  .price {
+    font-size: 1rem;
+  }
+}

@@ -14,12 +14,12 @@
   z-index: 10;
 }
 
-.header h1{
+.header h1 {
   font-family: cursive;
   font-weight: 200;
 }
 
-.header h1 span{
+.header h1 span {
   color: rgb(235, 222, 180);
   background-color: rgb(216, 101, 24);
   border-radius: 10px;
@@ -40,4 +40,16 @@
   transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
 }
 
-
+@media only screen and (max-width: 480px) {
+  .header {
+    height: 4.5rem;
+    white-space: nowrap;
+  }
+  .header h1 {
+    font-size: large;
+    padding-right: 50px;
+  }
+  .main-image {
+    height: 20rem;
+  }
+}

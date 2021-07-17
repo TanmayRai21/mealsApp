@@ -10,6 +10,10 @@
   margin: 0 0 0.25rem 0;
 }
 
+.heading {
+  display: inline-flex;
+}
+
 .description {
   font-style: italic;
 }
@@ -19,4 +23,16 @@
   font-weight: bold;
   color: #ad5502;
   font-size: 1.25rem;
+}
+
+.veg {
+  color: green;
+  padding-left: 0.8em;
+  font-size: x-small;
+}
+
+.nonveg {
+  color: red;
+  padding-left: 0.8em;
+  font-size: x-small;
 }
